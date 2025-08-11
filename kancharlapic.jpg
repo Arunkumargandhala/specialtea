@@ -1,0 +1,2226 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)https://kancharlafoundation.org/ -->
+<html lang="en" class="js no-touch cssanimations csstransitions"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="wpOceans">
+    <link rel="shortcut icon" type="image/png" href="./kancharlapic_files/icon.png">
+    <title>Kancharla Foundation</title>
+    <link href="./kancharlapic_files/themify-icons.css" rel="stylesheet">
+    <link href="./kancharlapic_files/flaticon_aidus.css" rel="stylesheet">
+    <link href="./kancharlapic_files/bootstrap.min.css" rel="stylesheet">
+    <link href="./kancharlapic_files/animate.css" rel="stylesheet">
+    <link href="./kancharlapic_files/owl.carousel.css" rel="stylesheet">
+    <link href="./kancharlapic_files/owl.theme.css" rel="stylesheet">
+    <link href="./kancharlapic_files/slick.css" rel="stylesheet">
+    <link href="./kancharlapic_files/slick-theme.css" rel="stylesheet">
+    <link href="./kancharlapic_files/style.css" rel="stylesheet">
+    <link href="./kancharlapic_files/swiper.min.css" rel="stylesheet">
+    <link href="./kancharlapic_files/owl.transitions.css" rel="stylesheet">
+    <link href="./kancharlapic_files/jquery.fancybox.css" rel="stylesheet">
+    <link href="./kancharlapic_files/odometer-theme-default.css" rel="stylesheet">
+    <link href="./kancharlapic_files/style(1).css" rel="stylesheet">
+    <link href="./kancharlapic_files/_hero-slider.css" rel="stylesheet">
+<style>
+    .selected {
+    text-decoration: none !important;
+    color: #ffff !important; /* Change text color */
+    background-color: #d20d20; /* Background color for active menu */
+    font-weight: bold; /* Make it bold */
+    padding: 6px;
+    bottom: 2px;
+    border-radius: 0px;
+    
+}
+    }
+
+.navbar-nav li a {
+    text-decoration: none !important; /* Remove underline */
+}
+
+.navbar-nav li a:hover {
+    text-decoration: none !important; /* Ensure no underline on hover */
+}
+</style><style type="text/css">.fancybox-margin{margin-right:23px;}</style></head>
+
+
+
+<body>
+
+    <!-- start page-wrapper -->
+    <div class="page-wrapper">
+
+        <!-- start preloader -->
+        <div class="preloader" style="display: none;">
+            <div class="vertical-centered-box">
+                <div class="content">
+                    <div class="loader-circle"></div>
+                    <div class="loader-line-mask">
+                        <div class="loader-line"></div>
+                    </div>
+                    <img src="./kancharlapic_files/icon.png" alt="">
+                </div>
+            </div>
+        </div>
+        <!-- end preloader -->
+
+        <!-- Start header -->
+        <header id="header" class="header-s2">
+            <!-- start topbar -->
+            <div class="topbar">
+                <div class="container-fluid">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6 col-12">
+                            <ul class="contact-info">
+                                <li>
+                                    <a href="tel:+919121212047">
+                                        <i class="flaticon-phone-1"></i><span>Call Now: +91 9121212047
+                                        </span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <i class="ti-email"></i><span>support@kancharlafoundation.org</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-6 col-12">
+                            <div class="contact-into">
+                                <ul class="social-media">
+                                    <li><a href="https://kancharlafoundation.org/#"><i class="flaticon-facebook-app-symbol"></i></a></li>
+                                    <li><a href="https://kancharlafoundation.org/#"><i class="flaticon-linkedin"></i></a></li>
+                                    <li><a href="https://kancharlafoundation.org/#"><i class="flaticon-camera"></i></a></li>
+                                    <li><a href="https://kancharlafoundation.org/#"><i class="flaticon-vimeo"></i></a></li>
+                                </ul>
+                                <!-- <div class="pryment-selector">
+                                    <select>
+                                        <option value="usd">USD</option>
+                                        <option value="aud">AUD</option>
+                                    </select>
+                                </div>
+                                <div class="language-selector">
+                                    <select id="languageSelect">
+                                        <option value="en" data-icon="assets/images/language/1.svg">English</option>
+                                        <option value="sp" data-icon="assets/images/language/2.svg">Spanish</option>
+                                    </select>
+                                    <div class="custom-select-wrapper">
+                                        <div class="custom-select"></div>
+                                        <div class="custom-arrow"><i class="ti-angle-down"></i></div>
+                                    </div>
+                                    <div class="custom-options"></div>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- end topbar -->
+            <div class="wpo-site-header">
+                <nav class="navigation navbar navbar-expand-lg navbar-light original">
+                    <div class="container-fluid">
+                        <div class="row align-items-center">
+                            <div class="col-lg-3 col-md-3 col-3 d-lg-none dl-block">
+                                <div class="mobail-menu">
+                                    <button type="button" class="navbar-toggler open-btn">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar first-angle"></span>
+                                        <span class="icon-bar middle-angle"></span>
+                                        <span class="icon-bar last-angle"></span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-6 col-6">
+                                <div class="navbar-header">
+                                    <a class="navbar-brand" href="https://kancharlafoundation.org/index.php"><img src="./kancharlapic_files/logo-two.png" alt=""></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-1 col-1">
+                                <div id="navbar" class="collapse navbar-collapse navigation-holder">
+                                    <button class="menu-close"><i class="ti-close"></i></button>
+                                    <ul class="nav navbar-nav mb-2 mb-lg-0">
+                                        <li class="menu-item-has-children">
+                                            <a href="https://kancharlafoundation.org/index.php" class="selected">Home</a>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="https://kancharlafoundation.org/about_kancharla.php" class=" ">About Us</a>
+                                            <ul class="sub-menu">
+                                                <li><a href="https://kancharlafoundation.org/about_kancharla.php">About Kancharla Foundation</a></li>
+                                                <li><a href="https://kancharlafoundation.org/about_founder.php">About The Founder</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="https://kancharlafoundation.org/Initiatives.php" class=" ">Initiatives</a>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="https://kancharlafoundation.org/ongoing_events.php" class=" ">Events</a>
+                                            <ul class="sub-menu">
+                                                <li><a href="https://kancharlafoundation.org/ongoing_events.php">Ongoing Events</a></li>
+                                                <li><a href="https://kancharlafoundation.org/upcoming_events.php">Upcoming Events</a></li>
+                                                <li><a href="https://kancharlafoundation.org/completed_events.php">Completed Events</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="https://kancharlafoundation.org/photo.php" class=" ">Gallery</a>
+                                            <ul class="sub-menu">
+                                                <li><a href="https://kancharlafoundation.org/media.php">Media</a></li>
+                                                <li><a href="https://kancharlafoundation.org/photo.php">Photo Gallery</a></li>
+                                                <li><a href="https://kancharlafoundation.org/videos.php">video Gallery</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://kancharlafoundation.org/contact.php" class=" ">Contact</a></li>
+                                    </ul>
+                                </div>
+                                <!-- end of nav-collapse -->
+                            </div>
+                            <div class="col-lg-4 col-md-2 col-2">
+                                <div class="header-right">
+                                    <!-- <div class="header-search-form-wrapper">
+                                        <div class="cart-search-contact">
+                                            <button class="search-toggle-btn"><i
+                                                    class="fi flaticon-magnifying-glass"></i></button>
+                                            <div class="header-search-form">
+                                                <form>
+                                                    <div>
+                                                        <input type="text" class="form-control"
+                                                            placeholder="Search here...">
+                                                        <button type="submit"><i
+                                                                class="fi flaticon-magnifying-glass"></i></button>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div> -->
+                                    <!-- <div class="mini-cart">
+                                        <button class="cart-toggle-btn"> <i class="fi flaticon-shopping-cart"></i> <span
+                                                class="cart-count">2</span></button>
+                                        <div class="mini-cart-content">
+                                            <button class="mini-cart-close"><i class="ti-close"></i></button>
+                                            <div class="mini-cart-items">
+                                                <div class="mini-cart-item clearfix">
+                                                    <div class="mini-cart-item-image">
+                                                        <a href="shop.html"><img
+                                                                src="assets/images/shop/mini-cart/img-1.jpg" alt></a>
+                                                    </div>
+                                                    <div class="mini-cart-item-des">
+                                                        <a href="shop.html">glass of juice</a>
+                                                        <span class="mini-cart-item-price">$20.15 x 1</span>
+                                                        <span class="mini-cart-item-quantity"><a href="#"><i
+                                                                    class="ti-close"></i></a></span>
+                                                    </div>
+                                                </div>
+                                                <div class="mini-cart-item clearfix">
+                                                    <div class="mini-cart-item-image">
+                                                        <a href="shop.html"><img
+                                                                src="assets/images/shop/mini-cart/img-2.jpg" alt></a>
+                                                    </div>
+                                                    <div class="mini-cart-item-des">
+                                                        <a href="shop.html">Water filters</a>
+                                                        <span class="mini-cart-item-price">$13.25 x 2</span>
+                                                        <span class="mini-cart-item-quantity"><a href="#"><i
+                                                                    class="ti-close"></i></a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="mini-cart-action clearfix">
+                                                <span class="mini-checkout-price">Subtotal: <span>$215.14</span></span>
+                                                <div class="mini-btn">
+                                                    <a href="checkout.html" class="view-cart-btn s1">Checkout</a>
+                                                    <a href="cart.html" class="view-cart-btn">View Cart</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> -->
+                                    <div class="close-form">
+                                        <a class="theme-btn" href="https://kancharlafoundation.org/#">Donate now</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- end of container -->
+                </nav><nav class="navigation navbar navbar-expand-lg navbar-light sticky-header">
+                    <div class="container-fluid">
+                        <div class="row align-items-center">
+                            <div class="col-lg-3 col-md-3 col-3 d-lg-none dl-block">
+                                <div class="mobail-menu">
+                                    <button type="button" class="navbar-toggler open-btn">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar first-angle"></span>
+                                        <span class="icon-bar middle-angle"></span>
+                                        <span class="icon-bar last-angle"></span>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-6 col-6">
+                                <div class="navbar-header">
+                                    <a class="navbar-brand" href="https://kancharlafoundation.org/index.php"><img src="./kancharlapic_files/logo-two.png" alt=""></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-6 col-md-1 col-1">
+                                <div id="navbar" class="collapse navbar-collapse navigation-holder">
+                                    <button class="menu-close"><i class="ti-close"></i></button>
+                                    <ul class="nav navbar-nav mb-2 mb-lg-0">
+                                        <li class="menu-item-has-children">
+                                            <a href="https://kancharlafoundation.org/index.php" class="selected">Home</a>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="https://kancharlafoundation.org/about_kancharla.php" class=" ">About Us</a>
+                                            <ul class="sub-menu">
+                                                <li><a href="https://kancharlafoundation.org/about_kancharla.php">About Kancharla Foundation</a></li>
+                                                <li><a href="https://kancharlafoundation.org/about_founder.php">About The Founder</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="https://kancharlafoundation.org/Initiatives.php" class=" ">Initiatives</a>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="https://kancharlafoundation.org/ongoing_events.php" class=" ">Events</a>
+                                            <ul class="sub-menu">
+                                                <li><a href="https://kancharlafoundation.org/ongoing_events.php">Ongoing Events</a></li>
+                                                <li><a href="https://kancharlafoundation.org/upcoming_events.php">Upcoming Events</a></li>
+                                                <li><a href="https://kancharlafoundation.org/completed_events.php">Completed Events</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="https://kancharlafoundation.org/photo.php" class=" ">Gallery</a>
+                                            <ul class="sub-menu">
+                                                <li><a href="https://kancharlafoundation.org/media.php">Media</a></li>
+                                                <li><a href="https://kancharlafoundation.org/photo.php">Photo Gallery</a></li>
+                                                <li><a href="https://kancharlafoundation.org/videos.php">video Gallery</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://kancharlafoundation.org/contact.php" class=" ">Contact</a></li>
+                                    </ul>
+                                </div>
+                                <!-- end of nav-collapse -->
+                            </div>
+                            <div class="col-lg-4 col-md-2 col-2">
+                                <div class="header-right">
+                                    <!-- <div class="header-search-form-wrapper">
+                                        <div class="cart-search-contact">
+                                            <button class="search-toggle-btn"><i
+                                                    class="fi flaticon-magnifying-glass"></i></button>
+                                            <div class="header-search-form">
+                                                <form>
+                                                    <div>
+                                                        <input type="text" class="form-control"
+                                                            placeholder="Search here...">
+                                                        <button type="submit"><i
+                                                                class="fi flaticon-magnifying-glass"></i></button>
+                                                    </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div> -->
+                                    <!-- <div class="mini-cart">
+                                        <button class="cart-toggle-btn"> <i class="fi flaticon-shopping-cart"></i> <span
+                                                class="cart-count">2</span></button>
+                                        <div class="mini-cart-content">
+                                            <button class="mini-cart-close"><i class="ti-close"></i></button>
+                                            <div class="mini-cart-items">
+                                                <div class="mini-cart-item clearfix">
+                                                    <div class="mini-cart-item-image">
+                                                        <a href="shop.html"><img
+                                                                src="assets/images/shop/mini-cart/img-1.jpg" alt></a>
+                                                    </div>
+                                                    <div class="mini-cart-item-des">
+                                                        <a href="shop.html">glass of juice</a>
+                                                        <span class="mini-cart-item-price">$20.15 x 1</span>
+                                                        <span class="mini-cart-item-quantity"><a href="#"><i
+                                                                    class="ti-close"></i></a></span>
+                                                    </div>
+                                                </div>
+                                                <div class="mini-cart-item clearfix">
+                                                    <div class="mini-cart-item-image">
+                                                        <a href="shop.html"><img
+                                                                src="assets/images/shop/mini-cart/img-2.jpg" alt></a>
+                                                    </div>
+                                                    <div class="mini-cart-item-des">
+                                                        <a href="shop.html">Water filters</a>
+                                                        <span class="mini-cart-item-price">$13.25 x 2</span>
+                                                        <span class="mini-cart-item-quantity"><a href="#"><i
+                                                                    class="ti-close"></i></a></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="mini-cart-action clearfix">
+                                                <span class="mini-checkout-price">Subtotal: <span>$215.14</span></span>
+                                                <div class="mini-btn">
+                                                    <a href="checkout.html" class="view-cart-btn s1">Checkout</a>
+                                                    <a href="cart.html" class="view-cart-btn">View Cart</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div> -->
+                                    <div class="close-form">
+                                        <a class="theme-btn" href="https://kancharlafoundation.org/#">Donate now</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div><!-- end of container -->
+                </nav>
+            </div>
+
+        </header>
+        <!-- end of header -->    
+    <!-- start of wpo-hero-slide-section-->
+        <section class="wpo-hero-slider-s2" style="height: 760px;">
+            <div class="swiper-container swiper-container-horizontal">
+                <div class="swiper-wrapper" style="transform: translate3d(-8108px, 0px, 0px); transition-duration: 1000ms;"><div class="swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="2" style="width: 2027px; transition: 1000ms;">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/kf1.png" style="transform: translate3d(4054px, 0px, 0px); transition: 1000ms; background-image: url(&quot;assets/images/slider/kf1.png&quot;);">
+                            <div class="container-fluid">
+                                
+                            </div>
+                            <div class="shape">
+                                <img src="./kancharlapic_files/shape-10.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 2027px; transition: 1000ms;">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/banner-bg5.jpg" style="transform: translate3d(3040.5px, 0px, 0px); transition: 1000ms; background-image: url(&quot;assets/images/slider/banner-bg5.jpg&quot;);">
+                            <div class="container-fluid">
+                                <!-- <div class="slide-content">
+                                    <div data-swiper-parallax="300" class="slide-title">
+                                        <span><img src="assets/images/healthcare.svg" alt=""> welcome To Kancharla Foundation.</span>
+                                    </div>
+                                    <div data-swiper-parallax="400" class="slide-sub-title">
+                                        <h2>Transparent Giving for
+                                            <span>Tangible </span> <span class="text">Impact</span></h2>
+                                    </div>
+                                    <div data-swiper-parallax="300" class="slide-title">
+                                        <span>Every donation directly supports our mission of community upliftment.</span>
+                                    </div>
+                                    <div data-swiper-parallax="500" class="slide-btns">
+                                        <a href="#" class="theme-btn">About Us</a>
+                                        <div class="call">
+                                            <div class="icon">
+                                                <i class="flaticon-phone"></i>
+                                            </div>
+                                            <div class="text">
+                                                <h3>Call Us Now</h3>
+                                                <span>+025 757 576 560</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="shape">
+                                        <img src="assets/images/slider/shape-9.svg" alt="">
+                                    </div>
+                                </div> -->
+                            </div>
+                            <div class="shape">
+                                <img src="./kancharlapic_files/shape-10.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                     <div class="swiper-slide" data-swiper-slide-index="1" style="width: 2027px; transition: 1000ms;">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/kf2.png" style="transform: translate3d(2027px, 0px, 0px); transition: 1000ms; background-image: url(&quot;assets/images/slider/kf2.png&quot;);">
+                            <div class="container-fluid">
+                                
+                            </div>
+                            <div class="shape">
+                                <img src="./kancharlapic_files/shape-10.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 2027px; transition: 1000ms;">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/kf1.png" style="transform: translate3d(1013.5px, 0px, 0px); transition: 1000ms; background-image: url(&quot;assets/images/slider/kf1.png&quot;);">
+                            <div class="container-fluid">
+                                
+                            </div>
+                            <div class="shape">
+                                <img src="./kancharlapic_files/shape-10.svg" alt="">
+                            </div>
+                        </div>
+                    </div>
+                <div class="swiper-slide swiper-slide-duplicate swiper-slide-active" data-swiper-slide-index="0" style="width: 2027px; transition: 1000ms;">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/banner-bg5.jpg" style="transform: translate3d(0px, 0px, 0px); transition: 1000ms; background-image: url(&quot;assets/images/slider/banner-bg5.jpg&quot;);">
+                            <div class="container-fluid">
+                                <!-- <div class="slide-content">
+                                    <div data-swiper-parallax="300" class="slide-title">
+                                        <span><img src="assets/images/healthcare.svg" alt=""> welcome To Kancharla Foundation.</span>
+                                    </div>
+                                    <div data-swiper-parallax="400" class="slide-sub-title">
+                                        <h2>Transparent Giving for
+                                            <span>Tangible </span> <span class="text">Impact</span></h2>
+                                    </div>
+                                    <div data-swiper-parallax="300" class="slide-title">
+                                        <span>Every donation directly supports our mission of community upliftment.</span>
+                                    </div>
+                                    <div data-swiper-parallax="500" class="slide-btns">
+                                        <a href="#" class="theme-btn">About Us</a>
+                                        <div class="call">
+                                            <div class="icon">
+                                                <i class="flaticon-phone"></i>
+                                            </div>
+                                            <div class="text">
+                                                <h3>Call Us Now</h3>
+                                                <span>+025 757 576 560</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="shape">
+                                        <img src="assets/images/slider/shape-9.svg" alt="">
+                                    </div>
+                                </div> -->
+                            </div>
+                            <div class="shape">
+                                <img src="./kancharlapic_files/shape-10.svg" alt="">
+                            </div>
+                        </div>
+                    </div></div>
+                <!-- end swiper-wrapper -->
+
+                <!-- swipper controls -->
+                <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+            </div>
+        </section>
+
+
+        <!-- start of register -->
+        <!-- <section class="register-section">
+            <div class="container">
+                <div class="content">
+                    <div class="image">
+                        <img src="assets/images/click_To_register.jpg" alt="">
+                        <div class="icon">
+                            <i class="flaticon-tablet"></i>
+                        </div>
+                    </div>
+                    <div class="text">
+                        <span><img src="assets/images/healthcare.svg" alt="">Non profit Charity Fundation</span>
+                        <h2>Click To Registered To be a memeber of us</h2>
+                        <a href="contact.html">Contact Now <i class="flaticon-right-arrow-1"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="shape">
+                <img src="assets/images/register-shape.svg" alt="">
+            </div>
+        </section> -->
+        <!-- end of register -->
+
+        <!-- start about -->
+        <!-- <section class="about-section-s2 section-padding mt-0">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-12">
+                        <div class="about-image">
+                            <div class="image1 wow fadeIn" data-wow-delay="0.1s">
+                                <img src="assets/images/about/kancharlafounder.png" alt="">
+                            </div>
+                            <div class="image2 wow fadeIn" data-wow-delay="0.1s">
+                                <img src="assets/images/about/about-4.jpg" alt="">
+                            </div>
+                            <div class="shape-love">
+                                <img src="assets/images/about/shape4.svg" alt="">
+                            </div>
+                            <div class="text">
+                                <h2>Since</h2>
+                                <h3><span class="odometer" data-count="1999">00</span></h3>
+                                <div class="shape">
+                                    <img src="assets/images/about/shape11.svg" alt="">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-12">
+                        <div class="right-content wow fadeInRight" data-wow-delay="0.1s">
+                            <h2><img src="assets/images/healthcare.svg" alt=""> Welcome to Kancharla Foundation.</h2>
+                            <h3> Empowering
+                            Change,<span> Enriching </span> Lives</h3>
+                            <p>At Kancharla Foundation, we believe in the power of transparency and community-driven change. With every donation, we ensure that your contributions directly benefit those in need, fostering trust and making a tangible impact. Join us on our mission to alleviate hunger, provide quality education, and improve healthcare, while also implementing sustainable solutions for lasting development. Together, we can transform lives and build a brighter future for all.</p>
+                            <div class="right">
+                                <ul>
+                                    <li><i class="flaticon-check"></i>100% Transparency: Your donations go directly to those in need.</li><br>
+                                    <li><i class="flaticon-check"></i>Education Initiatives: Empowering the next generation through learning.
+                                    </li><br>
+                                    <li><i class="flaticon-check"></i>Healthcare Programs: Providing essential medical support.</li><br>
+                                    <li><i class="flaticon-check"></i>Sustainable Solutions: Promoting long-term development.</li><br>
+                                    <li><i class="flaticon-check"></i>Community Upliftment: Addressing the root causes of poverty.
+                                    </li>
+                                    <div class="slider-btn mt-20">                                          
+                                     <a href="#" class="btn">Read More <i class="fal fa-long-arrow-right"></i></a>				
+                                </div>
+                                </ul>
+                            </div>
+                            <div class="about-tab">
+                                <div class="tab">
+                                    <button class="tablinks" onclick="openTab(event, 'Tab1')">Our Mission</button>
+                                    <button class="tablinks" onclick="openTab(event, 'Tab2')">Our Vission</button>
+                                    <button class="tablinks" onclick="openTab(event, 'Tab3')">excellence</button>
+                                </div>
+                                <div id="Tab1" class="tabcontent">
+                                    <div class="tab-wrap">
+                                        <div class="left">
+                                            <img src="assets/images/about/about-5.jpg" alt="">
+                                            <a href="https://www.youtube.com/embed/VqmFKnHG5q8?si=YcvnY_zzMv21k4iM"
+                                                class="video-btn" data-type="iframe">
+                                                <i class="flaticon-play"></i>
+                                            </a>
+                                        </div>
+                                        <div class="right">
+                                            <ul>
+                                                <li><i class="flaticon-check"></i> People’s Growth</li>
+                                                <li><i class="flaticon-check"></i>Helped fund 3,265 Project powerful
+                                                </li>
+                                                <li><i class="flaticon-check"></i>Awards Winning nonprofit company</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="Tab2" class="tabcontent">
+                                    <div class="tab-wrap">
+                                        <div class="left">
+                                            <img src="assets/images/about/about-6.jpg" alt="">
+                                            <a href="https://www.youtube.com/embed/VqmFKnHG5q8?si=YcvnY_zzMv21k4iM"
+                                                class="video-btn" data-type="iframe">
+                                                <i class="flaticon-play"></i>
+                                            </a>
+                                        </div>
+                                        <div class="right">
+                                            <ul>
+                                                <li><i class="flaticon-check"></i> The standard chunk of Lorem Ipsum
+                                                </li>
+                                                <li><i class="flaticon-check"></i>Helped fund 3,265 Project powerful
+                                                </li>
+                                                <li><i class="flaticon-check"></i>Awards Winning nonprofit company</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="Tab3" class="tabcontent">
+                                    <div class="tab-wrap">
+                                        <div class="left">
+                                            <img src="assets/images/about/about-7.jpg" alt="">
+                                            <a href="https://www.youtube.com/embed/VqmFKnHG5q8?si=YcvnY_zzMv21k4iM"
+                                                class="video-btn" data-type="iframe">
+                                                <i class="flaticon-play"></i>
+                                            </a>
+                                        </div>
+                                        <div class="right">
+                                            <ul>
+                                                <li><i class="flaticon-check"></i>There are many variations of passages
+                                                </li>
+                                                <li><i class="flaticon-check"></i>Helped fund 3,265 Project powerful
+                                                </li>
+                                                <li><i class="flaticon-check"></i>Awards Winning nonprofit company</li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="author-wrap">
+                                <ul class="author-img">
+                                    <li><img src="assets/images/about/aut-1.jpg" alt=""></li>
+                                    <li class="active"><img src="assets/images/about/aut-2.jpg" alt=""></li>
+                                    <li><img src="assets/images/about/aut-3.jpg" alt=""></li>
+                                </ul>
+                                <div class="author-text">5m+ Customer <div class="shape"><img
+                                            src="assets/images/about/shape10.svg" alt=""></div>
+                                </div>
+                                <div class="contact">
+                                    <div class="icon">
+                                        <img src="assets/images/about/call.svg" alt="">
+                                    </div>
+                                    <div class="text">
+                                        <span>Phone:</span>
+                                        <h4>+236 (456) 896 22</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="shape-1">
+                <img src="assets/images/about/shape7.svg" alt="">
+            </div>
+            <div class="shape-2">
+                <img src="assets/images/about/shape2.svg" alt="">
+            </div>
+            <div class="shape-3">
+                <img src="assets/images/about/shape8.svg" alt="">
+            </div>
+        </section> -->
+        <!-- end about -->
+
+        <!-- start about -->
+        <section class="about-section section-padding mb-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-12">
+                        <div class="about-image">
+                            <div class="img-1">
+                                <img src="./kancharlapic_files/about-main3.jpg" alt="">
+                                <!-- <a href="https://www.youtube.com/embed/VqmFKnHG5q8?si=YcvnY_zzMv21k4iM"
+                                    class="video-btn" data-type="iframe">
+                                    <i class="flaticon-play"></i>
+                                </a> -->
+                            </div>
+                            <div class="img-2">
+                                <img src="./kancharlapic_files/10.jpg" alt="">
+                                <a href="https://www.youtube.com/embed/YzHSOujCRRQ?si=QjQgKLFdvmt3VtC3" class="video-btn" data-type="iframe">
+                                    <i class="flaticon-play"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-12 wow fadeInRight" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInRight;">
+                        <div class="about-content">
+                            <h2>Welcome to Kancharla Foundation</h2>
+                            <h3>Empowering Change,
+                                <span>Enriching</span> Lives</h3>
+                            <p>At Kancharla Foundation, we believe in the power of transparency and community-driven change. With every donation, we ensure that your contributions directly benefit those in need, fostering trust and making a tangible impact. Join us on our mission to alleviate hunger, provide quality education, and improve healthcare, while also implementing sustainable solutions for lasting development. Together, we can transform lives and build a brighter future for all.</p>
+
+                            <!-- <div class="inner-content">
+                                <div class="inner-item">
+                                    <div class="icon">
+                                        <i class="flaticon-charity"></i>
+                                    </div>
+                                    <div class="content">
+                                        <h4>Trusted organization</h4>
+                                        <span>AidUs is a trusted and reliable organization dedicated to making real, positive change.</span>
+                                    </div>
+                                </div>
+                                <div class="inner-item">
+                                    <div class="icon">
+                                        <i class="flaticon-medal"></i>
+                                    </div>
+                                    <div class="content">
+                                        <h4>Awarded services</h4>
+                                        <span>We are known for its awarded services, recognized for impactful solutions.</span>
+                                    </div>
+                                </div>
+                            </div> -->
+                            <ul>
+                                <li><i class="flaticon-check"></i>100% Transparency: Your donations go directly to those in need.
+                                    </li>
+                                <li><i class="flaticon-check"></i>Education Initiatives: Empowering the next generation through learning.
+                                </li>
+                                <li><i class="flaticon-check"></i>Healthcare Programs: Providing essential medical support.
+                                </li>
+                                <li><i class="flaticon-check"></i>Sustainable Solutions: Promoting long-term development.
+                                </li>
+                                <li><i class="flaticon-check"></i>Community Upliftment: Addressing the root causes of poverty.
+                                </li>
+                            </ul>
+                            <div class="about-btn">
+                                <a href="https://kancharlafoundation.org/about_kancharla.php" class="theme-btn">About Us</a>
+                                <div class="ceo">
+                                    <!-- <div class="image">
+                                        <img src="assets/images/about/ceo.jpg" alt="">
+                                    </div>
+                                    <div class="text">
+                                        <h4>Moses Fahey</h4>
+                                        <span>Ceo & Founder</span>
+                                    </div> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="shape-1">
+                <img src="./kancharlapic_files/shape1.svg" alt="">
+            </div>
+            <div class="shape-2">
+                <img src="./kancharlapic_files/shape2.svg" alt="">
+            </div>
+            <div class="shape-3">
+                <img src="./kancharlapic_files/shape3.svg" alt="">
+            </div>
+            <div class="shape-4">
+                <img src="./kancharlapic_files/shape4.svg" alt="">
+            </div>
+            <div class="shape-5">
+                <img src="./kancharlapic_files/shape5.svg" alt="">
+            </div>
+            <div class="shape-6">
+                <img src="./kancharlapic_files/shape6.svg" alt="">
+            </div>
+        </section>
+        <!-- end about -->
+
+        <!-- start service -->
+        <!-- <section class="service-section-s2 section-padding pb-0">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-8 col-12">
+                        <div class="section-title">
+                            <span><img src="assets/images/healthcare.svg" alt="">Together, We Can Change Lives
+                                Forever.</span>
+                            <h2>our <span>non-profit</span> services
+                                you must love</h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-12">
+                        <div class="all-Service-btn">
+                            <a href="service.html" class="theme-btn">All Services</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-image">
+                    <img src="assets/images/service/bg-img.jpg" alt="">
+                    <div class="shape">
+                        <img src="assets/images/service/shape-3.svg" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="service-wrap">
+                    <div class="item wow fadeInUp" data-wow-delay="0.0s">
+                        <div class="visible-content">
+                            <div class="icon">
+                                <i class="flaticon-fund"></i>
+                            </div>
+                            <div class="text">
+                                <h2><a href="#">Fund Raised & Donation</a></h2>
+                            </div>
+                        </div>
+                        <div class="hover-content">
+                            <div class="text">
+                                <h2><a href="#">Fund Raised & Donation</a></h2>
+                                <span>Find information for
+                                    people with dis</span>
+                                <a href="#">Read More<i class="flaticon-right-arrow-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="visible-content">
+                            <div class="icon">
+                                <i class="flaticon-first-aid-kit"></i>
+                            </div>
+                            <div class="text">
+                                <h2><a href="#">Medical Treatment Help</a></h2>
+                            </div>
+                        </div>
+                        <div class="hover-content">
+                            <div class="text">
+                                <h2><a href="#">Medical Treatment Help</a></h2>
+                                <span>Find information for
+                                    people with dis</span>
+                                <a href="#">Read More<i class="flaticon-right-arrow-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="visible-content">
+                            <div class="icon">
+                                <i class="flaticon-gift"></i>
+                            </div>
+                            <div class="text">
+                                <h2><a href="#">development programs</a></h2>
+                            </div>
+                        </div>
+                        <div class="hover-content">
+                            <div class="text">
+                                <h2><a href="#">development programs</a></h2>
+                                <span>Find information for
+                                    people with dis</span>
+                                <a href="#">Read More<i class="flaticon-right-arrow-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="visible-content">
+                            <div class="icon">
+                                <i class="flaticon-charity"></i>
+                            </div>
+                            <div class="text">
+                                <h2><a href="#">Child medical research</a></h2>
+                            </div>
+                        </div>
+                        <div class="hover-content">
+                            <div class="text">
+                                <h2><a href="#">Child medical research</a></h2>
+                                <span>Find information for
+                                    people with dis</span>
+                                <a href="#">Read More<i class="flaticon-right-arrow-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item wow fadeInUp" data-wow-delay="0.4s">
+                        <div class="visible-content">
+                            <div class="icon">
+                                <i class="flaticon-cardiogram"></i>
+                            </div>
+                            <div class="text">
+                                <h2><a href="#">Corporate Gifts donate</a></h2>
+                            </div>
+                        </div>
+                        <div class="hover-content">
+                            <div class="text">
+                                <h2><a href="#">Corporate Gifts donate</a></h2>
+                                <span>Find information for
+                                    people with dis</span>
+                                <a href="#">Read More<i class="flaticon-right-arrow-1"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+        <!-- end service -->
+
+        <!-- start causes -->
+        <!-- <section class="causes-section-s2 section-padding ">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 col-12">
+                        <div class="section-title">
+                            <span>Charity makes no decrease in property.</span>
+                            <h2>Helping each other
+                                make <span>world</span> better</h2>
+                            <p>Helping each other creates a stronger, kinder world. We build trust, spread compassion,
+                                and inspire others to do the same. Together, we can overcome challenges and make lasting
+                                positive changes.</p>
+                            <ul>
+                                <li>
+                                    <i class="flaticon-check"></i>
+                                    We help companies develop powerful corporate social
+                                </li>
+                                <li>
+                                    <i class="flaticon-check"></i>
+                                    Helped fund 3,265 Project powerful corporate poor.
+                                </li>
+                                <li>
+                                    <i class="flaticon-check"></i>
+                                    It is a long established fact that a reader.
+                                </li>
+                            </ul>
+                            <a href="service.html" class="theme-btn">All Services</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="causes-slider-s2 owl-carousel">
+                <div class="causes-card">
+                    <div class="image">
+                        <span>Health</span>
+                        <img src="assets/images/causes/1.jpg" alt="">
+                    </div>
+                    <div class="text">
+                        <h2><a href="causes-single.html">Bringing Clean Water to Rural Communities</a></h2>
+                        <p>Our initiative provides clean water to rural communities, improving health</p>
+                    </div>
+                    <div class="progress-wrap">
+                        <div class="progress-item">
+                            <div class="progress">
+                                <div class="bar" style="width: 90%;"></div>
+                            </div>
+                            <span class="cssProgress-label">90%</span>
+                        </div>
+                        <ul>
+                            <li>
+                                <span class="title">Goal:</span>
+                                <span>$20.000</span>
+                            </li>
+                            <li>
+                                <span class="title">Raised:</span>
+                                <span>$20.000</span>
+                            </li>
+                            <li>
+                                <span class="title">Goal:</span>
+                                <span>$20.000</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="causes-card">
+                    <div class="image">
+                        <span>Health</span>
+                        <img src="assets/images/causes/3.jpg" alt="">
+                    </div>
+                    <div class="text">
+                        <h2><a href="causes-single.html">Lifeskills for Children in South Africa</a></h2>
+                        <p>Teaching life skills to children in Africa empowers them for a brighter.</p>
+                    </div>
+                    <div class="progress-wrap">
+                        <div class="progress-item">
+                            <div class="progress">
+                                <div class="bar" style="width: 90%;"></div>
+                            </div>
+                            <span class="cssProgress-label">90%</span>
+                        </div>
+                        <ul>
+                            <li>
+                                <span class="title">Goal:</span>
+                                <span>$20.000</span>
+                            </li>
+                            <li>
+                                <span class="title">Raised:</span>
+                                <span>$20.000</span>
+                            </li>
+                            <li>
+                                <span class="title">Goal:</span>
+                                <span>$20.000</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="causes-card">
+                    <div class="image">
+                        <span>Health</span>
+                        <img src="assets/images/causes/2.jpg" alt="">
+                    </div>
+                    <div class="text">
+                        <h2><a href="causes-single.html">Providing Healthy Food for the children</a></h2>
+                        <p>We provide healthy food for children, ensuring they grow strong.</p>
+                    </div>
+                    <div class="progress-wrap">
+                        <div class="progress-item">
+                            <div class="progress">
+                                <div class="bar" style="width: 90%;"></div>
+                            </div>
+                            <span class="cssProgress-label">90%</span>
+                        </div>
+                        <ul>
+                            <li>
+                                <span class="title">Goal:</span>
+                                <span>$20.000</span>
+                            </li>
+                            <li>
+                                <span class="title">Raised:</span>
+                                <span>$20.000</span>
+                            </li>
+                            <li>
+                                <span class="title">Goal:</span>
+                                <span>$20.000</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="causes-card">
+                    <div class="image">
+                        <span>Health</span>
+                        <img src="assets/images/causes/3.jpg" alt="">
+                    </div>
+                    <div class="text">
+                        <h2><a href="causes-single.html">Improving Access to Medical Care in Remote Areas</a></h2>
+                        <p>Bringing healthcare closer to those in need, we reduce disparities.</p>
+                    </div>
+                    <div class="progress-wrap">
+                        <div class="progress-item">
+                            <div class="progress">
+                                <div class="bar" style="width: 90%;"></div>
+                            </div>
+                            <span class="cssProgress-label">90%</span>
+                        </div>
+                        <ul>
+                            <li>
+                                <span class="title">Goal:</span>
+                                <span>$20.000</span>
+                            </li>
+                            <li>
+                                <span class="title">Raised:</span>
+                                <span>$20.000</span>
+                            </li>
+                            <li>
+                                <span class="title">Goal:</span>
+                                <span>$20.000</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="causes-card">
+                    <div class="image">
+                        <span>Health</span>
+                        <img src="assets/images/causes/4.jpg" alt="">
+                    </div>
+                    <div class="text">
+                        <h2><a href="causes-single.html">Help Children Rise out of Poverty</a></h2>
+                        <p>We help children rise out of poverty by providing education and support.</p>
+                    </div>
+                    <div class="progress-wrap">
+                        <div class="progress-item">
+                            <div class="progress">
+                                <div class="bar" style="width: 90%;"></div>
+                            </div>
+                            <span class="cssProgress-label">90%</span>
+                        </div>
+                        <ul>
+                            <li>
+                                <span class="title">Goal:</span>
+                                <span>$20.000</span>
+                            </li>
+                            <li>
+                                <span class="title">Raised:</span>
+                                <span>$20.000</span>
+                            </li>
+                            <li>
+                                <span class="title">Goal:</span>
+                                <span>$20.000</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="shape">
+                <img src="assets/images/causes/shape2.svg" alt="">
+            </div>
+
+        </section> -->
+        <!-- end causes -->
+
+        <!-- start become_volunteer -->
+        <!-- <section class="become_volunteer">
+            <div class="left-content">
+                <div class="icon">
+                    <img src="assets/images/healthcare-icon1.svg" alt="">
+                </div>
+                <h2>Become an volunteer?</h2>
+                <a href="contact.html">Contact With us <img src="assets/images/up-arrow1.svg" alt=""></a>
+            </div>
+            <div class="right-content">
+                <div class="icon">
+                    <img src="assets/images/healthcare-icon2.svg" alt="">
+                </div>
+                <h2>Make donation to us?</h2>
+                <a href="contact.html">Contact With us <img src="assets/images/up-arrow1.svg" alt=""></a>
+            </div>
+            <div class="shape">
+                <img src="assets/images/curved_shape2.svg" alt="">
+            </div>
+        </section> -->
+        <!-- end become_volunteer -->
+
+         <!-- start service -->
+         <section class="service-section-s3 section-padding bg-grey">
+            <div class="container">
+               <div class="row justify-content-center bg-grey">
+                    <div class="col-lg-6 col-12">
+                        <div class="section-title text-center">
+                            <span>Initiatives</span>
+                            <h2 style="font-size: 32px;">Empowering Lives, Building Futures</h2>
+                            <p>At Kancharla Foundation, we are dedicated to fostering sustainable development and self-sufficiency within underprivileged communities.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="row">
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                        <div class="blog-sidebar">
+                            <div class="widget about-widget">
+                                <div class="img-holder">
+                                    <img src="assets/images/blog/icon.png" alt="">
+                                </div>
+                                <h4>Skill Development Programs</h4>
+                                <p>Training programs that enable self-sufficiency.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                        <div class="blog-sidebar">
+                            <div class="widget about-widget">
+                                <div class="img-holder">
+                                    <img src="assets/images/blog/icon.png" alt="">
+                                </div>
+                                <h4>Organic Farming Practices</h4>
+                                <p>Encouraging sustainable agricultural practices..</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 col-sm-12">
+                        <div class="blog-sidebar">
+                            <div class="widget about-widget">
+                                <div class="img-holder">
+                                    <img src="assets/images/blog/icon.png" alt="">
+                                </div>
+                                <h4>Blood Donation Drives</h4>
+                                <p>Saving lives through regular campaigns..</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-2 col-sm-12 mt-5">
+                    </div>
+                    <div class="col col-lg-4 col-sm-12 mt-5">
+                        <div class="blog-sidebar">
+                            <div class="widget about-widget">
+                                <div class="img-holder">
+                                    <img src="assets/images/blog/icon.png" alt="">
+                                </div>
+                                <h4>Skill Development Programs</h4>
+                                <p>Training programs that enable self-sufficiency.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 mt-5">
+                        <div class="blog-sidebar">
+                            <div class="widget about-widget">
+                                <div class="img-holder">
+                                    <img src="assets/images/blog/icon.png" alt="">
+                                </div>
+                                <h4>Skill Development Programs</h4>
+                                <p>Training programs that enable self-sufficiency.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-sm-12 mt-5">
+                    </div>
+                </div> -->
+                <div class="container">
+                <div class="service-wrap">
+                    <div class="item wow fadeInUp" data-wow-delay="0.0s" style="visibility: hidden; animation-delay: 0s; animation-name: none;">
+                        <div class="visible-content">
+                            <div class="icon">
+                                <i class="flaticon-fund"></i>
+                            </div>
+                            <div class="text">
+                                <h2><a href="https://kancharlafoundation.org/#">Skill Development Programs
+                                </a></h2>
+                            </div>
+                        </div>
+                        <div class="hover-content">
+                            <div class="text">
+                                <h2><a href="https://kancharlafoundation.org/#">Skill Development Programs
+                                </a></h2>
+                                <span>Training programs that enable self-sufficiency.</span>
+                                <!-- <a href="#">Read More<i class="flaticon-right-arrow-1"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item wow fadeInUp" data-wow-delay="0.1s" style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
+                        <div class="visible-content">
+                            <div class="icon">
+                                <i class="flaticon-first-aid-kit"></i>
+                            </div>
+                            <div class="text">
+                                <h2><a href="https://kancharlafoundation.org/#">Organic Farming Practices
+                                </a></h2>
+                            </div>
+                        </div>
+                        <div class="hover-content">
+                            <div class="text">
+                                <h2><a href="https://kancharlafoundation.org/#">Organic Farming Practices
+                                </a></h2>
+                                <span>Encouraging sustainable agricultural practices.</span>
+                                <!-- <a href="#">Read More<i class="flaticon-right-arrow-1"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+                        <div class="visible-content">
+                            <div class="icon">
+                                <i class="flaticon-charity"></i>
+                            </div>
+                            <div class="text">
+                                <h2><a href="https://kancharlafoundation.org/#">Blood Donation Drives
+                                </a></h2>
+                            </div>
+                        </div>
+                        <div class="hover-content">
+                            <div class="text">
+                                <h2><a href="https://kancharlafoundation.org/#">Blood Donation Drives
+                                </a></h2>
+                                <span>Saving lives through regular campaigns.</span>
+                                <!-- <a href="#">Read More<i class="flaticon-right-arrow-1"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item wow fadeInUp" data-wow-delay="0.3s" style="visibility: hidden; animation-delay: 0.3s; animation-name: none;">
+                        <div class="visible-content">
+                            <div class="icon">
+                                <i class="flaticon-gift"></i>
+                            </div>
+                            <div class="text">
+                                <h2><a href="https://kancharlafoundation.org/#">Disaster Relief Efforts
+                                </a></h2>
+                            </div>
+                        </div>
+                        <div class="hover-content">
+                            <div class="text">
+                                <h2><a href="https://kancharlafoundation.org/#">Disaster Relief Efforts
+                                </a></h2>
+                                <span>Immediate food and fund support for victims.</span>
+                                <!-- <a href="#">Read More<i class="flaticon-right-arrow-1"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item wow fadeInUp" data-wow-delay="0.4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
+                        <div class="visible-content">
+                            <div class="icon">
+                                <i class="flaticon-cardiogram"></i>
+                            </div>
+                            <div class="text">
+                                <h2><a href="https://kancharlafoundation.org/#">Tree Plantation Initiatives
+                                </a></h2>
+                            </div>
+                        </div>
+                        <div class="hover-content">
+                            <div class="text">
+                                <h2><a href="https://kancharlafoundation.org/#">Tree Plantation Initiatives
+                                </a></h2>
+                                <span>Contributing to a greener environment.</span>
+                                <!-- <a href="#">Read More<i class="flaticon-right-arrow-1"></i></a> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </section>
+        <!-- end service -->
+    
+          <!-- start project -->
+          <section class="project-section-s2 section-padding">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-12">
+                        <div class="section-title text-center">
+                            <span>Causes to care</span>
+                            <h2>Be the Reason of
+                            <span>Someone’s </span>  Smile</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="project-slider-s2 owl-carousel owl-loaded owl-drag">
+                
+                
+                
+            <div class="owl-stage-outer"><div class="owl-stage" style="transition: all; width: 5750px; transform: translate3d(-1277px, 0px, 0px);"><div class="owl-item cloned" style="width: 608.833px; margin-right: 30px;"><div class="project-card">
+                    <img src="./kancharlapic_files/donation1.jpg" alt="">
+                    <div class="content">
+                        <h2><a href="https://kancharlafoundation.org/#">Nourish a Child’s Future</a></h2>
+                        <span>Your contributions can provide nutritious meals to children, ensuring they have the energy to learn, play, and grow. Together, we can fight hunger and foster brighter futures for the youngest members of our communities.</span>
+                        <!-- <div class="icon"><a href="#"><i class="flaticon-arrow-up"></i></a></div> -->
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 608.833px; margin-right: 30px;"><div class="project-card">
+                    <img src="./kancharlapic_files/donation2.jpg" alt="">
+                    <div class="content">
+                        <h2><a href="https://kancharlafoundation.org/#">Empower Through Education</a></h2>
+                        <span>By supporting educational programs, you help equip children and youth with the knowledge and skills they need to succeed. Your generosity opens doors to new opportunities, paving the way for lifelong success.</span>
+                        <!-- <div class="icon"><a href="#"><i class="flaticon-arrow-up"></i></a></div> -->
+                    </div>
+                </div></div><div class="owl-item cloned active" style="width: 608.833px; margin-right: 30px;"><div class="project-card">
+                    <img src="./kancharlapic_files/donation3.jpg" alt="">
+                    <div class="content">
+                        <h2><a href="https://kancharlafoundation.org/#">Heal with Healthcare</a></h2>
+                        <span>Access to essential healthcare services can transform lives. Your donations support medical camps and healthcare initiatives that bring much-needed care to those in remote and underserved areas, promoting health and well-being.</span>
+                        <!-- <div class="icon"><a href="#"><i class="flaticon-arrow-up"></i></a></div> -->
+                    </div>
+                </div></div><div class="owl-item active center" style="width: 608.833px; margin-right: 30px;"><div class="project-card">
+                    <img src="./kancharlapic_files/donation1.jpg" alt="">
+                    <div class="content">
+                        <h2><a href="https://kancharlafoundation.org/#">Nourish a Child’s Future</a></h2>
+                        <span>Your contributions can provide nutritious meals to children, ensuring they have the energy to learn, play, and grow. Together, we can fight hunger and foster brighter futures for the youngest members of our communities.</span>
+                        <!-- <div class="icon"><a href="#"><i class="flaticon-arrow-up"></i></a></div> -->
+                    </div>
+                </div></div><div class="owl-item active" style="width: 608.833px; margin-right: 30px;"><div class="project-card">
+                    <img src="./kancharlapic_files/donation2.jpg" alt="">
+                    <div class="content">
+                        <h2><a href="https://kancharlafoundation.org/#">Empower Through Education</a></h2>
+                        <span>By supporting educational programs, you help equip children and youth with the knowledge and skills they need to succeed. Your generosity opens doors to new opportunities, paving the way for lifelong success.</span>
+                        <!-- <div class="icon"><a href="#"><i class="flaticon-arrow-up"></i></a></div> -->
+                    </div>
+                </div></div><div class="owl-item" style="width: 608.833px; margin-right: 30px;"><div class="project-card">
+                    <img src="./kancharlapic_files/donation3.jpg" alt="">
+                    <div class="content">
+                        <h2><a href="https://kancharlafoundation.org/#">Heal with Healthcare</a></h2>
+                        <span>Access to essential healthcare services can transform lives. Your donations support medical camps and healthcare initiatives that bring much-needed care to those in remote and underserved areas, promoting health and well-being.</span>
+                        <!-- <div class="icon"><a href="#"><i class="flaticon-arrow-up"></i></a></div> -->
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 608.833px; margin-right: 30px;"><div class="project-card">
+                    <img src="./kancharlapic_files/donation1.jpg" alt="">
+                    <div class="content">
+                        <h2><a href="https://kancharlafoundation.org/#">Nourish a Child’s Future</a></h2>
+                        <span>Your contributions can provide nutritious meals to children, ensuring they have the energy to learn, play, and grow. Together, we can fight hunger and foster brighter futures for the youngest members of our communities.</span>
+                        <!-- <div class="icon"><a href="#"><i class="flaticon-arrow-up"></i></a></div> -->
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 608.833px; margin-right: 30px;"><div class="project-card">
+                    <img src="./kancharlapic_files/donation2.jpg" alt="">
+                    <div class="content">
+                        <h2><a href="https://kancharlafoundation.org/#">Empower Through Education</a></h2>
+                        <span>By supporting educational programs, you help equip children and youth with the knowledge and skills they need to succeed. Your generosity opens doors to new opportunities, paving the way for lifelong success.</span>
+                        <!-- <div class="icon"><a href="#"><i class="flaticon-arrow-up"></i></a></div> -->
+                    </div>
+                </div></div><div class="owl-item cloned" style="width: 608.833px; margin-right: 30px;"><div class="project-card">
+                    <img src="./kancharlapic_files/donation3.jpg" alt="">
+                    <div class="content">
+                        <h2><a href="https://kancharlafoundation.org/#">Heal with Healthcare</a></h2>
+                        <span>Access to essential healthcare services can transform lives. Your donations support medical camps and healthcare initiatives that bring much-needed care to those in remote and underserved areas, promoting health and well-being.</span>
+                        <!-- <div class="icon"><a href="#"><i class="flaticon-arrow-up"></i></a></div> -->
+                    </div>
+                </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"></div></div>
+            <div class="bg-shape">
+                <img src="./kancharlapic_files/shapebg-3.svg" alt="">
+            </div>
+        </section>
+        <!-- end project -->
+
+        <!-- start service -->
+        <!-- <section class="service-section-s3 section-padding ">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-12">
+                        <div class="section-title">
+                            <span>Transparency, Impact, Community: The Pillars of Our Foundation.</span>
+                            <h2>The Kancharla Advantage
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="service-wrap">
+                    <div class="service-card wow fadeInUp" data-wow-delay="0.0s">
+                        <div class="icon">
+                            <i class="flaticon-graduation-cap"></i>
+                        </div>
+                        <h2><a href="#">Unwavering Transparency</a></h2>
+                        <span>We ensure every donation is tracked and accounted for, offering complete transparency so you can see the direct impact of your contributions.</span>
+                        <a href="#">Read More <i class="flaticon-right-arrow"></i></a>
+                    </div>
+                    <div class="service-card wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="icon">
+                            <i class="flaticon-charity"></i>
+                        </div>
+                        <h2><a href="#">Consistent Impact Updates</a></h2>
+                        <span>We provide regular updates on our initiatives, keeping you informed about progress and outcomes with detailed reports and success stories.</span>
+                        <a href="#">Read More <i class="flaticon-right-arrow"></i></a>
+                    </div>
+                    <div class="service-card wow fadeInUp" data-wow-delay="0.0s">
+                        <div class="icon">
+                            <i class="flaticon-checklist"></i>
+                        </div>
+                        <h2><a href="#">Community-Focused Projects</a></h2>
+                        <span>Our programs are tailored to meet the specific needs of communities, involving local stakeholders for sustainable, long-term development.</span>
+                        <a href="#">Read More <i class="flaticon-right-arrow"></i></a>
+                    </div>
+                    <div class="service-card wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="icon">
+                            <i class="flaticon-medal"></i>
+                        </div>
+                        <h2><a href="#">Awwarded service
+                                & Treatment</a></h2>
+                        <span>Transmax is the world tr
+                            we uphold industry Cu
+                            stomer Oriented </span>
+                        <a href="#">Read More <i class="flaticon-right-arrow"></i></a>
+                    </div>
+                </div>
+            </div>
+        </section> -->
+        <!-- end service -->
+    
+    <!-- start cta -->
+        <section class="cta-section-s2">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-8 col-12">
+                        <div class="content">
+                            <h2> <img src="./kancharlapic_files/healthcare-with.svg" alt="">Your contribution can spark a wave of positive transformation. <br> Join us in making a meaningful impact and bringing hope to those in need.</h2>
+                            <h3>Be the Change You 
+                             <span>Wish</span> to See</h3>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-12">
+                        <div class="all-btn">
+                            <a href="https://kancharlafoundation.org/#" class="theme-btn">Contact Us <i class="flaticon-heart"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end cta -->
+        
+         <!-- start testimonial -->
+         <section class="testimonial-section mb-5">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-12">
+                        <div class="section-title">
+                            <span>Transparency, Impact, Community: The Pillars of Our Foundation.</span>
+                            <h2>The Kancharla Advantage
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="testimonial-wrap">
+                    <div class="testimonial-slider owl-carousel owl-loaded owl-drag">
+                        
+                        
+                        
+                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1297px, 0px, 0px); transition: all; width: 3893px;"><div class="owl-item cloned" style="width: 432.5px;"><div class="testimonial-card">
+                            <ul>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                            </ul>
+                            <h5><b>Unwavering Transparency</b></h5>
+                            <p>We ensure every donation is tracked and accounted for, offering complete transparency so you can see the direct impact of your contributions.</p>
+                        
+                        </div></div><div class="owl-item cloned" style="width: 432.5px;"><div class="testimonial-card">
+                            <ul>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                            </ul>
+                            <h5><b>Consistent Impact Updates</b>
+                            </h5>
+                            <p>We provide regular updates on our initiatives, keeping you informed about progress and outcomes with detailed reports and success stories.</p>                          
+                        </div></div><div class="owl-item cloned" style="width: 432.5px;"><div class="testimonial-card">
+                            <ul>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                            </ul>
+                            <h5><b>Community-Focused Projects</b>
+                            </h5>
+                            <p>Our programs are tailored to meet the specific needs of communities, involving local stakeholders for sustainable, long-term development.</p>
+                            
+                        </div></div><div class="owl-item active" style="width: 432.5px;"><div class="testimonial-card">
+                            <ul>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                            </ul>
+                            <h5><b>Unwavering Transparency</b></h5>
+                            <p>We ensure every donation is tracked and accounted for, offering complete transparency so you can see the direct impact of your contributions.</p>
+                        
+                        </div></div><div class="owl-item active" style="width: 432.5px;"><div class="testimonial-card">
+                            <ul>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                            </ul>
+                            <h5><b>Consistent Impact Updates</b>
+                            </h5>
+                            <p>We provide regular updates on our initiatives, keeping you informed about progress and outcomes with detailed reports and success stories.</p>                          
+                        </div></div><div class="owl-item active" style="width: 432.5px;"><div class="testimonial-card">
+                            <ul>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                            </ul>
+                            <h5><b>Community-Focused Projects</b>
+                            </h5>
+                            <p>Our programs are tailored to meet the specific needs of communities, involving local stakeholders for sustainable, long-term development.</p>
+                            
+                        </div></div><div class="owl-item cloned" style="width: 432.5px;"><div class="testimonial-card">
+                            <ul>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                            </ul>
+                            <h5><b>Unwavering Transparency</b></h5>
+                            <p>We ensure every donation is tracked and accounted for, offering complete transparency so you can see the direct impact of your contributions.</p>
+                        
+                        </div></div><div class="owl-item cloned" style="width: 432.5px;"><div class="testimonial-card">
+                            <ul>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                            </ul>
+                            <h5><b>Consistent Impact Updates</b>
+                            </h5>
+                            <p>We provide regular updates on our initiatives, keeping you informed about progress and outcomes with detailed reports and success stories.</p>                          
+                        </div></div><div class="owl-item cloned" style="width: 432.5px;"><div class="testimonial-card">
+                            <ul>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                            </ul>
+                            <h5><b>Community-Focused Projects</b>
+                            </h5>
+                            <p>Our programs are tailored to meet the specific needs of communities, involving local stakeholders for sustainable, long-term development.</p>
+                            
+                        </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"></div></div>
+                </div>
+            </div>
+        </section>
+        <!-- end testimonial -->
+
+        <!-- start GetQuate -->
+        <!-- <section class="GetQuate-section section-padding">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-lg-6 col-12">
+                        <div class="left-wrap">
+                            <h2> <img src="assets/images/healthcare.svg" alt=""> Non profit Charity Fundation</h2>
+                            <h3>Helping each other can
+                                make <span>world</span> better</h3>
+                            <p>We approached aidused complex project Designing website
+                                can involve various aspects such as layout, graphics, content
+                                experience For a more specific response elaborate</p>
+                            <ul class="icontext">
+                                <li><i class="flaticon-fund"></i>Fund Raised & Donation
+                                    Treat raised</li>
+                                <li><i class="flaticon-cardiogram"></i>We Helping People
+                                    & Donation pik</li>
+                            </ul>
+                            <ul class="op-item">
+                                <li><i class="flaticon-check"></i>Dedicated Team & volunteer</li>
+                                <li><i class="flaticon-check"></i>Domestics & Logistics</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-12">
+                        <div class="donation-from">
+                            <h3>Support for eating funds</h3>
+                            <div class="progress-wrap">
+                                <div class="progress-item">
+                                    <div class="progress">
+                                        <div class="bar" style="width: 50%;"></div>
+                                    </div>
+                                    <span class="cssProgress-label">50%</span>
+                                </div>
+                                <ul>
+                                    <li>
+                                        <span>$7,560.00</span>
+                                        <span class="title">Raised</span>
+                                    </li>
+                                    <li>
+                                        <span>$10,000.00</span>
+                                        <span class="title">Goal</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="donate-amount ">
+                                <button class="active amount-btn">$100</button>
+                                <button class="amount-btn">$300.00</button>
+                                <button class="amount-btn">$400.00</button>
+                                <button class="amount-btn">$200.00</button>
+                                <button class="amount-btn">$600.00</button>
+                            </div>
+                            <div class="donate-now">
+                                <input type="text" class="addAmount-value" placeholder="$Costume">
+                                <div class="donation-one__btn-box">
+                                    <a href="#" class="donation-one__btn theme-btn">Donate Now</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bg-shape">
+                <img src="assets/images/donate-shape.svg" alt="">
+                <div class="shape1">
+                    <img src="assets/images/donate-1.svg" alt="">
+                </div>
+                <div class="shape2">
+                    <img src="assets/images/donate-2.svg" alt="">
+                </div>
+                <div class="shape3">
+                    <img src="assets/images/donate-3.svg" alt="">
+                </div>
+            </div>
+            <div class="right-img">
+                <img src="assets/images/donate.png" alt="">
+            </div>
+        </section> -->
+        <!-- end GetQuate -->
+
+        <!-- start Volunteer -->
+        <!-- <section class="volunteer-section section-padding">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-12">
+                        <div class="section-title text-center">
+                            <span>You Can Help The Poor With Us</span>
+                            <h2>Meat the Team <span>member</span></h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-12">
+                        <div class="vol-card wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="image">
+                                <img src="assets/images/volunteer/1.jpg" alt="">
+                                <span class="hover-icon"><i class="flaticon-share"></i></span>
+                                <ul>
+                                    <li><a href="#"><i class="flaticon-camera"></i></a></li>
+                                    <li><a href="#"><i class="flaticon-facebook-app-symbol"></i></a></li>
+                                    <li><a href="#"><i class="flaticon-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="flaticon-twitter"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="text">
+                                <h3><a href="volunteer-single.html">Leslie Alexander</a></h3>
+                                <span>GRAPHIC DESIGNER</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12">
+                        <div class="vol-card wow fadeInUp" data-wow-delay="0.0s">
+                            <div class="image">
+                                <img src="assets/images/volunteer/2.jpg" alt="">
+                                <span class="hover-icon"><i class="flaticon-share"></i></span>
+                                <ul>
+                                    <li><a href="#"><i class="flaticon-camera"></i></a></li>
+                                    <li><a href="#"><i class="flaticon-facebook-app-symbol"></i></a></li>
+                                    <li><a href="#"><i class="flaticon-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="flaticon-twitter"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="text">
+                                <h3><a href="volunteer-single.html">Joshua Nunnally</a></h3>
+                                <span>GRAPHIC DESIGNER</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12">
+                        <div class="vol-card wow fadeInUp" data-wow-delay="0.2s">
+                            <div class="image">
+                                <img src="assets/images/volunteer/3.jpg" alt="">
+                                <span class="hover-icon"><i class="flaticon-share"></i></span>
+                                <ul>
+                                    <li><a href="#"><i class="flaticon-camera"></i></a></li>
+                                    <li><a href="#"><i class="flaticon-facebook-app-symbol"></i></a></li>
+                                    <li><a href="#"><i class="flaticon-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="flaticon-twitter"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="text">
+                                <h3><a href="volunteer-single.html">Letourneau</a></h3>
+                                <span>GRAPHIC DESIGNER</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12">
+                        <div class="vol-card wow fadeInUp" data-wow-delay="0.0s">
+                            <div class="image">
+                                <img src="assets/images/volunteer/4.jpg" alt="">
+                                <span class="hover-icon"><i class="flaticon-share"></i></span>
+                                <ul>
+                                    <li><a href="#"><i class="flaticon-camera"></i></a></li>
+                                    <li><a href="#"><i class="flaticon-facebook-app-symbol"></i></a></li>
+                                    <li><a href="#"><i class="flaticon-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="flaticon-twitter"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="text">
+                                <h3><a href="volunteer-single.html">Lillian Lewis</a></h3>
+                                <span>GRAPHIC DESIGNER</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="all-btn">
+                    <a href="volunteer-1.html" class="theme-btn">All Volunteer</a>
+                </div>
+            </div>
+        </section> -->
+        <!-- end Volunteer -->
+
+        <!-- start project -->
+        <!-- <section class="project-section-s2 section-padding">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-12">
+                        <div class="section-title text-center">
+                            <span>We are always open for children</span>
+                            <h2>our case study about <span>helping</span> people</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="project-slider-s2 owl-carousel">
+                <div class="project-card">
+                    <img src="assets/images/project/4.jpg" alt="">
+                    <div class="content">
+                        <h2><a href="project-single.html">Shelter for the Homeless</a></h2>
+                        <span>Child & old care</span>
+                        <div class="icon"><a href="project-single.html"><i class="flaticon-arrow-up"></i></a></div>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <img src="assets/images/project/5.jpg" alt="">
+                    <div class="content">
+                        <h2><a href="project-single.html">Empowering Through Food</a></h2>
+                        <span>Child & old care</span>
+                        <div class="icon"><a href="project-single.html"><i class="flaticon-arrow-up"></i></a></div>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <img src="assets/images/project/6.jpg" alt="">
+                    <div class="content">
+                        <h2><a href="project-single.html">old people & Child trouble</a></h2>
+                        <span>Child & old care</span>
+                        <div class="icon"><a href="project-single.html"><i class="flaticon-arrow-up"></i></a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="bg-shape">
+                <img src="assets/images/project/shapebg-3.svg" alt="">
+            </div>
+        </section> -->
+        <!-- end project -->
+
+        <!-- start testimonial -->
+        <!-- <Section class="testimonial-section-s2 section-padding ">
+            <div class="container">
+                <div class="testimonial-wrap testimonial-slider-s2">
+                    <div class="image slider-for">
+                        <div class="item">
+                            <span class="feedback"><i class="flaticon-double-quotes"></i></span>
+                            <img src="assets/images/testimonial/3.jpg" alt="">
+                            <ul>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                            </ul>
+                        </div>
+                        <div class="item">
+                            <span class="feedback"><i class="flaticon-double-quotes"></i></span>
+                            <img src="assets/images/testimonial/2.jpg" alt="">
+                            <ul>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                                <li><i class="flaticon-star"></i></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="content-wrap">
+                        <div class="slider-nav">
+                            <div class="content">
+                                <p>Climb the mountain not to plant your flag but to
+                                    embrace the ways challenge, enjoy the air, and
+                                    behold the. Climb it see the world, not so the
+                                    world can see you. This is due to their excellent
+                                    service competitive pricing</p>
+                                <div class="client-name">
+                                    <h4>Michel Jhonson/</h4>
+                                    <span>Donar</span>
+                                </div>
+
+                            </div>
+                            <div class="content">
+                                <p>
+                                    I recently used for my logistics needs, and I am
+                                    thoroughly impressed with their exceptional service. I contacted
+                                    them, team demonstrated and making the entire
+                                    process smooth and hassle-free.
+                                </p>
+                                <div class="client-name">
+                                    <h4>Tommy Kraft/</h4>
+                                    <span>Customer</span>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="shape">
+                <img src="assets/images/testimonial/shape.svg" alt="">
+            </div>
+            <div class="shape-2">
+                <img src="assets/images/testimonial/shape-2.svg" alt="">
+            </div>
+        </Section> -->
+        <!-- end testimonial -->
+
+        <!-- start instagam -->
+        <section class="instagam-section-s2 section-padding mt-5">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-12">
+                        <div class="section-title text-center">
+                            <span><img src="./kancharlapic_files/healthcare.svg" alt="">We are always open for children</span>
+                            <h2>Events
+                            </h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="gallery-main-wrap">
+                <div class="sortable-gallery">
+                    <div class="grid" style="position: relative; height: 0px;">
+                        <div class="img-holder">
+                            <a href="./kancharlapic_files/10.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                <img src="./kancharlapic_files/10.jpg" alt="" class="img img-responsive">
+                                <div class="hover-content">
+                                    <i class="flaticon-camera"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid">
+                        <div class="img-holder">
+                            <a href="./kancharlapic_files/6.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                <img src="./kancharlapic_files/6.jpg" alt="" class="img img-responsive">
+                                <div class="hover-content">
+                                    <i class="flaticon-camera"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid">
+                        <div class="img-holder">
+                            <a href="./kancharlapic_files/7.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                <img src="./kancharlapic_files/7.jpg" alt="" class="img img-responsive">
+                                <div class="hover-content">
+                                    <i class="flaticon-camera"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid">
+                        <div class="img-holder">
+                            <a href="./kancharlapic_files/8.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                <img src="./kancharlapic_files/8.jpg" alt="" class="img img-responsive">
+                                <div class="hover-content">
+                                    <i class="flaticon-camera"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="grid">
+                        <div class="img-holder">
+                            <a href="./kancharlapic_files/9.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                <img src="./kancharlapic_files/9.jpg" alt="" class="img img-responsive">
+                                <div class="hover-content">
+                                    <i class="flaticon-camera"></i>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="line-in">
+                <img src="./kancharlapic_files/line-ing.svg" alt="">
+            </div>
+        </section>
+        <!-- end instagam -->
+
+        <!-- start partners -->
+        <!-- <section class="partners-section-s2">
+            <div class="container">
+                <div class="wraper">
+                    <div class="title">
+                        <h4>We’ve been mentioned in the press</h4>
+                    </div>
+                    <ul class="partners-slider-s2">
+                        <li>
+                            <div>
+                                <img src="assets/images/partners/1.png" alt="">
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <img src="assets/images/partners/2.png" alt="">
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <img src="assets/images/partners/3.png" alt="">
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <img src="assets/images/partners/4.png" alt="">
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <img src="assets/images/partners/5.png" alt="">
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <img src="assets/images/partners/6.png" alt="">
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <img src="assets/images/partners/7.png" alt="">
+                            </div>
+                        </li>
+                        <li>
+                            <div>
+                                <img src="assets/images/partners/4.png" alt="">
+                            </div>
+                        </li>
+
+                    </ul>
+
+                </div>
+            </div>
+        </section> -->
+        <!-- end partners -->
+
+        <!-- start blog -->
+        <!-- <section class="blog-section-s2">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 col-12">
+                        <div class="section-title text-center">
+                            <span>Hope, Support, and Love for All.</span>
+                            <h2>our latest <span>article news</span> & blogs you need</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-slider owl-carousel">
+                    <div class="blog-card-s2">
+                        <div class="image">
+                            <img src="assets/images/blog/img-1.jpg" alt="">
+                        </div>
+                        <div class="content">
+                            <ul>
+                                <li><i class="flaticon-calendar"></i>02 Apr 2021</li>
+                                <li><i class="flaticon-chat"></i>2 Comments</li>
+                            </ul>
+                            <h3><a href="blog-single.html">Stories of Hope: Celebrating Our Community Impact</a></h3>
+                            <a href="blog-single.html">Read More <i class="flaticon-right-arrow"></i></a>
+                        </div>
+                    </div>
+                    <div class="blog-card-s2">
+                        <div class="image">
+                            <img src="assets/images/blog/img-2.jpg" alt="">
+                        </div>
+                        <div class="content">
+                            <ul>
+                                <li><i class="flaticon-calendar"></i>02 Apr 2021</li>
+                                <li><i class="flaticon-chat"></i>2 Comments</li>
+                            </ul>
+                            <h3><a href="blog-single.html">How Your Generous Support Makes a Difference
+                                </a></h3>
+                            <a href="blog-single.html">Read More <i class="flaticon-right-arrow"></i></a>
+                        </div>
+                    </div>
+                    <div class="blog-card-s2">
+                        <div class="image">
+                            <img src="assets/images/blog/img-3.jpg" alt="">
+                        </div>
+                        <div class="content">
+                            <ul>
+                                <li><i class="flaticon-calendar"></i>02 Apr 2021</li>
+                                <li><i class="flaticon-chat"></i>2 Comments</li>
+                            </ul>
+                            <h3><a href="blog-single.html">Our Goal Is Help The Poor Child Around The World</a></h3>
+                            <a href="blog-single.html">Read More <i class="flaticon-right-arrow"></i></a>
+                        </div>
+                    </div>
+                    <div class="blog-card-s2">
+                        <div class="image">
+                            <img src="assets/images/blog/img-1.jpg" alt="">
+                        </div>
+                        <div class="content">
+                            <ul>
+                                <li><i class="flaticon-calendar"></i>02 Apr 2021</li>
+                                <li><i class="flaticon-chat"></i>2 Comments</li>
+                            </ul>
+                            <h3><a href="blog-single.html">Majority have Suffered Alteration Some</a></h3>
+                            <a href="blog-single.html">Read More <i class="flaticon-right-arrow"></i></a>
+                        </div>
+                    </div>
+                    <div class="blog-card-s2">
+                        <div class="image">
+                            <img src="assets/images/blog/img-2.jpg" alt="">
+                        </div>
+                        <div class="content">
+                            <ul>
+                                <li><i class="flaticon-calendar"></i>02 Apr 2021</li>
+                                <li><i class="flaticon-chat"></i>2 Comments</li>
+                            </ul>
+                            <h3><a href="blog-single.html">Caring for the Elderly and Vulnerable Strategy
+                                </a></h3>
+                            <a href="blog-single.html">Read More <i class="flaticon-right-arrow"></i></a>
+                        </div>
+                    </div>
+                    <div class="blog-card-s2">
+                        <div class="image">
+                            <img src="assets/images/blog/img-3.jpg" alt="">
+                        </div>
+                        <div class="content">
+                            <ul>
+                                <li><i class="flaticon-calendar"></i>02 Apr 2021</li>
+                                <li><i class="flaticon-chat"></i>2 Comments</li>
+                            </ul>
+                            <h3><a href="blog-single.html">Our Goal Is Help The Poor Child Around The World</a></h3>
+                            <a href="blog-single.html">Read More <i class="flaticon-right-arrow"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </section> -->
+        <!-- end blog -->
+
+        <!-- start cta-->
+        <!-- <section class="cta-section-s3">
+            <div class="container">
+                <div class="cta-wrap">
+                    <div class="row align-items-center">
+                        <div class="col-lg-8 col-12">
+                            <div class="content">
+                                <h2> <img src="assets/images/healthcare.svg" alt=""> Non profit Charity
+                                    Fundation</h2>
+                                <h3>ensure safety & non profit care
+                                    & quality Services</h3>
+                                <ul>
+                                    <li><i class="flaticon-check"></i>Dedicated Team support</li>
+                                    <li><i class="flaticon-check"></i>Excellent care service</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-12">
+                            <div class="all-btn">
+                                <a href="#" class="theme-btn">Donate Now <i class="flaticon-heart"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="shape">
+                        <img src="assets/images/cta-shap-2.svg" alt="">
+                    </div>
+                    <div class="shape1">
+                        <img src="assets/images/cta-shap-3.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </section> -->
+        <!-- end cta-->
+
+    <!-- start footer -->
+    <footer class="wpo-site-footer-s2">
+            <div class="wpo-upper-footer">
+                <div class="container">
+                    <div class="row">
+                        <div class="col col-lg-3 col-md-6 col-sm-12 col-12">
+                            <div class="widget address-widget wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+                                <div class="widget-title">
+                                    <h3>Kancharla Foundation</h3>
+                                </div>
+                                <p>Kancharla&nbsp;Foundation&nbsp;is&nbsp;dedicated&nbsp;to<br>creating&nbsp;a&nbsp;brighter&nbsp;future&nbsp;through<br>education,&nbsp;healthcare,&nbsp;and&nbsp;sustainable<br>living.&nbsp;Join&nbsp;us&nbsp;in&nbsp;our&nbsp;mission&nbsp;to&nbsp;uplift&nbsp;and<br>empower&nbsp;underprivileged&nbsp;communities.</p>
+                                <!-- <h4>Opening Hours</h4>
+                                <ul>
+                                    <li>9.30am – 6.30pm</li>
+                                    <li>Monday to Friday</li>
+                                </ul> -->
+                            </div>
+                        </div>
+                        <div class="col col-lg-3 col-md-6 col-sm-12 col-12">
+                            <div class="widget link-widget wow fadeInUp" data-wow-delay="0.0s" style="visibility: hidden; animation-delay: 0s; animation-name: none;">
+                                <div class="widget-title">
+                                    <h3>Quick Links</h3>
+                                </div>
+                                <ul>
+                                    <li><a href="https://kancharlafoundation.org/about_kancharla.php">About Kancharla Foundation</a></li>
+                                    <li><a href="https://kancharlafoundation.org/about_founder.php">About the Founder</a></li>
+                                    <li><a href="https://kancharlafoundation.org/Initiatives.php">Initiatives</a></li>
+                                    <li><a href="https://kancharlafoundation.org/ongoing_events.php">On Going Events</a></li>
+                                    <li><a href="https://kancharlafoundation.org/upcoming_events.php">Upcoming Events</a></li>
+                                    <li><a href="https://kancharlafoundation.org/completed_events.php">Completed Events</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col col-lg-3 col-md-6 col-sm-12 col-12">
+                            <div class="widget link-widget wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+                                <div class="widget-title">
+                                    <h3>Quick Links</h3>
+                                </div>
+                                <ul>
+                                    <li><a href="https://kancharlafoundation.org/photo.php">Photo Gallery</a></li>
+                                    <li><a href="https://kancharlafoundation.org/videos.php">Video Gallery</a></li>
+                                    <li><a href="https://kancharlafoundation.org/#">Careers</a></li>
+                                    <li><a href="https://kancharlafoundation.org/#"> FAQs</a></li>
+                                    <li><a href="https://kancharlafoundation.org/#">Volunteer With Us
+                                    </a></li>
+                                    <li><a href="https://kancharlafoundation.org/#"> Donation</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col col-lg-3 col-md-6 col-sm-12 col-12">
+                        <div class="widget link-widget wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+                                <div class="widget-title">
+                                    <h3>Contact info</h3>
+                                </div>
+                                <ul>
+                                    <li><a href="https://kancharlafoundation.org/#">Sultan Mohiddin Nagar,
+                                        Kandukuru, Andhra Pradesh,
+                                        India.</a></li>
+                                    <li><a href="https://kancharlafoundation.org/#">+91 9121212047</a></li>
+                                    <li><a href="https://kancharlafoundation.org/#">support@kancharlafoundation.org</a></li>
+                                    <li><a href="https://kancharlafoundation.org/#"> Privacy Policy</a></li>
+                                    <li><a href="https://kancharlafoundation.org/#">Terms &amp; Conditions
+                                    </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="wpo-lower-footer">
+     <div class="container">
+        <div class="row g-0 align-items-center">
+            <div class="col col-lg-2 col-12 ml-5">
+                <div class="logo" style="margin-left:25px;">
+                    <img src="./kancharlapic_files/logo-two.png" alt="blog">
+                </div>
+            </div>
+            <div class="col col-lg-6 col-12">
+                <!-- <p class="copyright"> &copy; 2025 <a href="index.php">Kancharla Foundation</a>
+                    All rights reserved.</p> -->
+            </div>
+            <div class="col col-lg-4 col-12">
+                <!-- <ul>
+                    <li><a href="#"><img src="assets/images/banck/1.png" alt=""></a></li>
+                    <li><a href="#"><img src="assets/images/banck/2.png" alt=""></a></li>
+                    <li><a href="#"><img src="assets/images/banck/3.png" alt=""></a></li>
+                    <li><a href="#"><img src="assets/images/banck/4.png" alt=""></a></li>
+                    <li><a href="#"><img src="assets/images/banck/5.png" alt=""></a></li>
+                    <li><a href="#"><img src="assets/images/banck/6.png" alt=""></a></li>
+                </ul> -->
+                <!-- <p class="copyright"> &copy; 2025 <a href="index.php">Kancharla Foundation</a> All rights reserved.</p> -->
+                <!-- Added Powered by MedhaTech -->
+                <p class="copyright"> © 2025 &amp; Powered by <a href="https://medhatech.in/" target="_blank">MedhaTech</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+            <div class="shape">
+                <img src="./kancharlapic_files/f-shape5.svg" alt="">
+            </div>
+            <div class="shape2">
+                <img src="./kancharlapic_files/f-shape6.svg" alt="">
+            </div>
+            <div class="shape3">
+                <img src="./kancharlapic_files/f-shape4.svg" alt="">
+            </div>
+        </footer>
+        <!-- end footer -->
+
+    </div>
+    <!-- end of page-wrapper -->
+
+    <!-- All JavaScript files
+    ================================================== -->
+    <script src="./kancharlapic_files/jquery.min.js.download"></script>
+    <script src="./kancharlapic_files/bootstrap.bundle.min.js.download"></script>
+    <!-- Plugins for this template -->
+    <script src="./kancharlapic_files/modernizr.custom.js.download"></script>
+    <script src="./kancharlapic_files/jquery.dlmenu.js.download"></script>
+    <script src="./kancharlapic_files/jquery-plugin-collection.js.download"></script>
+    <!-- Custom script for this template -->
+    <script src="./kancharlapic_files/script.js.download"></script><a href="https://kancharlafoundation.org/#" class="back-to-top"><i class="ti-arrow-up"></i></a>
+
+
+</body></html>

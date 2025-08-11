@@ -1,0 +1,63 @@
+body { 
+   
+    padding: 30px;
+    width: 500px;
+    background-image: url(cofe19.jpg);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+   background-position: center;
+}
+ul{
+display: flex;
+margin-left: 500px;
+padding-left:20px;
+}
+
+button{color: rgb(5, 65, 66);
+    background-color: rgb(182, 147, 122);
+    border-radius: 20px;
+    margin: 20px;
+}
+    tr hover{
+        background-color: aqua;
+    }
+
+.tea{
+    
+    width:900px;
+    height:fit-content;
+    padding: 30px;
+    
+}
+.coffee{
+    display:flex;
+    
+    margin-left: 200px;
+}
+img{
+  float: right;
+  margin-top: 100px;
+}
+.coffee nav a{
+    margin:10px;
+}
+h2{
+    color:black;
+    font-family: cursive;
+}
+h1{
+    color:fuchsia;
+}
+p{
+    color: blue;
+}
+i{
+    font-size: 30px;
+    color: red;
+}
+a{
+    color: cyan;
+    text-decoration: none;
+    
+}
